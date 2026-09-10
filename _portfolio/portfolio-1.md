@@ -1,6 +1,6 @@
 ---
 title: "QuantFarm Visual Studio"
-excerpt: "A visual workspace for exploring agricultural product branding, packaging, and presentation.<br/><img src='/images/portfolio/quantfarm/overview.png' alt='QuantFarm Visual Studio homepage with creative categories and packaging examples' loading='lazy'>"
+excerpt: "A visual workspace for exploring agricultural product branding, packaging, and presentation.<br/><img src='/images/portfolio/quantfarm/head.png' alt='QuantFarm Visual Studio homepage with creative categories and packaging examples' loading='lazy'>"
 collection: portfolio
 permalink: /portfolio/quantfarm/
 ---
@@ -15,7 +15,7 @@ An agricultural product needs more than a single image to communicate its identi
 
 The homepage combines a persistent navigation panel, creative categories, and a gallery of examples. Tea, fruit, grains, and honey provide the context for exploring a consistent visual language across different formats.
 
-![QuantFarm homepage with a brand presentation banner and creative category cards]({{ '/images/portfolio/quantfarm/overview.png' | relative_url }})
+![QuantFarm homepage with a brand presentation banner and creative category cards]({{ '/images/portfolio/quantfarm/head.png' | relative_url }})
 *Homepage overview: a shared starting point for brand and product presentation.*
 
 ## Visual Directions
@@ -26,7 +26,7 @@ The examples displayed on the site span three closely related areas:
 - **Product form:** packaging structures and 3D presentation concepts.
 - **Spatial presentation:** livestream settings and retail interiors that extend the product's visual identity.
 
-![QuantFarm example gallery showing packaging, product forms, livestream settings, and retail interiors]({{ '/images/portfolio/quantfarm/showcase.png' | relative_url }})
+![QuantFarm example gallery showing packaging, product forms, livestream settings, and retail interiors]({{ '/images/portfolio/quantfarm/workflow.png' | relative_url }})
 *Selected examples displayed in the homepage gallery, from packaging concepts to presentation spaces.*
 
 ## Perspective
